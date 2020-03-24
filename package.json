@@ -1,5 +1,5 @@
 {
-  "name": "commonutils",
+  "name": "utils-bs",
   "version": "1.0.0",
   "description": "共用函数库",
   "main": "index.js",
