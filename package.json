@@ -7,8 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf dist/ && webpack -p --config webpack.config.js --colors --progress"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsabella/commonUtils.git"
+  },
+  "keywords":[
+    "时间"
+  ],
   "author": "Baishu",
-  "license": "ISC",
+  "license": "ISC",  "bugs": {
+    "url": "https://github.com/lsabella/commonUtils/issues"
+  },
+  "homepage": "hhttps://github.com/lsabella/commonUtils#readme",
   "dependencies": {
     "big.js": "^5.0.3",
     "lodash": "^4.17.5"
